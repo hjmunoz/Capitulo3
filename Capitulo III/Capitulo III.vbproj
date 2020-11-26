@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1125B3B7-1CB3-41F6-A656-64427C6F93E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Capitulo_III.My.MyApplication</StartupObject>
+    <RootNamespace>Capitulo_III</RootNamespace>
+    <AssemblyName>Capitulo III</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Capitulo III.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Capitulo III.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.Designer.vb">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apl.icacion09.Designer.vb">
+      <DependentUpon>Apl.icacion09.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Apl.icacion09.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion06.Designer.vb">
+      <DependentUpon>Aplicacion06.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion06.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion07.Designer.vb">
+      <DependentUpon>Aplicacion07.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion07.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion08.Designer.vb">
+      <DependentUpon>Aplicacion08.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion08.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion11.Designer.vb">
+      <DependentUpon>Aplicacion11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion12.Designer.vb">
+      <DependentUpon>Aplicacion12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion12.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion13.Designer.vb">
+      <DependentUpon>Aplicacion13.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion13.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion14.Designer.vb">
+      <DependentUpon>Aplicacion14.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion14.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion15.Designer.vb">
+      <DependentUpon>Aplicacion15.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion15.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion16.Designer.vb">
+      <DependentUpon>Aplicacion16.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion16.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion17.Designer.vb">
+      <DependentUpon>Aplicacion17.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion17.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion18.Designer.vb">
+      <DependentUpon>Aplicacion18.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion18.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion19.Designer.vb">
+      <DependentUpon>Aplicacion19.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion19.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion20.Designer.vb">
+      <DependentUpon>Aplicacion20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacion21.Designer.vb">
+      <DependentUpon>Aplicacion21.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacion21.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacionpro03.Designer.vb">
+      <DependentUpon>Aplicacionpro03.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacionpro03.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacionpropuesta04.Designer.vb">
+      <DependentUpon>Aplicacionpropuesta04.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacionpropuesta04.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacionpropuesta05.Designer.vb">
+      <DependentUpon>Aplicacionpropuesta05.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacionpropuesta05.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aplicacionpropuesta06.Designer.vb">
+      <DependentUpon>Aplicacionpropuesta06.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aplicacionpropuesta06.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Banco el amigo.Designer.vb">
+      <DependentUpon>Banco el amigo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Banco el amigo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capitulo III.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capitulo III.Designer.vb">
+      <DependentUpon>Capitulo III.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apl.icacion09.resx">
+      <DependentUpon>Apl.icacion09.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacion06.resx">
+      <DependentUpon>Aplicacion06.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacion07.resx">
+      <DependentUpon>Aplicacion07.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacion08.resx">
+      <DependentUpon>Aplicacion08.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacion11.resx">
+      <DependentUpon>Aplicacion11.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacion12.resx">
+      <DependentUpon>Aplicacion12.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacion13.resx">
+      <DependentUpon>Aplicacion13.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacion14.resx">
+      <DependentUpon>Aplicacion14.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacion15.resx">
+      <DependentUpon>Aplicacion15.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacion16.resx">
+      <DependentUpon>Aplicacion16.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacion17.resx">
+      <DependentUpon>Aplicacion17.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacion18.resx">
+      <DependentUpon>Aplicacion18.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacion19.resx">
+      <DependentUpon>Aplicacion19.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacion20.resx">
+      <DependentUpon>Aplicacion20.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacion21.resx">
+      <DependentUpon>Aplicacion21.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacionpro03.resx">
+      <DependentUpon>Aplicacionpro03.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacionpropuesta04.resx">
+      <DependentUpon>Aplicacionpropuesta04.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacionpropuesta05.resx">
+      <DependentUpon>Aplicacionpropuesta05.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aplicacionpropuesta06.resx">
+      <DependentUpon>Aplicacionpropuesta06.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Banco el amigo.resx">
+      <DependentUpon>Banco el amigo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capitulo III.resx">
+      <DependentUpon>Capitulo III.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

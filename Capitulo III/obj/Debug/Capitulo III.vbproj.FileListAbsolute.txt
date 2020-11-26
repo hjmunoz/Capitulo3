@@ -1,0 +1,70 @@
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\bin\Debug\Capitulo III.exe.config
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\bin\Debug\Capitulo III.exe
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\bin\Debug\Capitulo III.pdb
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\bin\Debug\Capitulo III.xml
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo III.vbprojAssemblyReference.cache
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.AboutBox1.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Form1.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.LoginForm1.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Resources.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.SplashScreen1.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo III.vbproj.GenerateResource.cache
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo III.vbproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo III.exe
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo III.xml
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo III.pdb
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion06.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion07.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion08.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion09.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion11.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion12.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion13.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.funciones.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion15.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion16.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion17.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion18.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion19.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion20.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion21.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion10.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacionpro03.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacionpropuesta04.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacionpropuesta05.resources
+C:\Users\hecto\source\repos\Capitulo III\Capitulo III\obj\Debug\Capitulo_III.Aplicacionpropuesta06.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\bin\Debug\Capitulo III.exe.config
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\bin\Debug\Capitulo III.exe
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\bin\Debug\Capitulo III.pdb
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\bin\Debug\Capitulo III.xml
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo III.vbprojAssemblyReference.cache
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.AboutBox1.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion09.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion06.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion07.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion08.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion11.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion12.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion13.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.funciones.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion15.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion16.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion17.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion18.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion19.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion20.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion21.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacionpro03.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacionpropuesta04.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacionpropuesta05.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacionpropuesta06.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Aplicacion10.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Form1.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.LoginForm1.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.Resources.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo_III.SplashScreen1.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo III.vbproj.GenerateResource.cache
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo III.vbproj.CoreCompileInputs.cache
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo III.exe
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo III.xml
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\source\source\repos\CAPITULO III\Capitulo III\obj\Debug\Capitulo III.pdb

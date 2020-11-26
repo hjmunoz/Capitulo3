@@ -1,0 +1,12 @@
+C:\Users\hecto\source\repos\Aplicacion09\Aplicacion09\bin\Debug\Aplicacion09.exe.config
+C:\Users\hecto\source\repos\Aplicacion09\Aplicacion09\bin\Debug\Aplicacion09.exe
+C:\Users\hecto\source\repos\Aplicacion09\Aplicacion09\bin\Debug\Aplicacion09.pdb
+C:\Users\hecto\source\repos\Aplicacion09\Aplicacion09\bin\Debug\Aplicacion09.xml
+C:\Users\hecto\source\repos\Aplicacion09\Aplicacion09\obj\Debug\Aplicacion09.vbprojAssemblyReference.cache
+C:\Users\hecto\source\repos\Aplicacion09\Aplicacion09\obj\Debug\Aplicacion09.Form1.resources
+C:\Users\hecto\source\repos\Aplicacion09\Aplicacion09\obj\Debug\Aplicacion09.Resources.resources
+C:\Users\hecto\source\repos\Aplicacion09\Aplicacion09\obj\Debug\Aplicacion09.vbproj.GenerateResource.cache
+C:\Users\hecto\source\repos\Aplicacion09\Aplicacion09\obj\Debug\Aplicacion09.vbproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\Aplicacion09\Aplicacion09\obj\Debug\Aplicacion09.exe
+C:\Users\hecto\source\repos\Aplicacion09\Aplicacion09\obj\Debug\Aplicacion09.xml
+C:\Users\hecto\source\repos\Aplicacion09\Aplicacion09\obj\Debug\Aplicacion09.pdb

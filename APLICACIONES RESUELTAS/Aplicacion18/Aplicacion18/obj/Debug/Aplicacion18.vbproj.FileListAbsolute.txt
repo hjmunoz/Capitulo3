@@ -1,0 +1,12 @@
+C:\Users\hecto\source\repos\Aplicacion18\Aplicacion18\bin\Debug\Aplicacion18.exe.config
+C:\Users\hecto\source\repos\Aplicacion18\Aplicacion18\bin\Debug\Aplicacion18.exe
+C:\Users\hecto\source\repos\Aplicacion18\Aplicacion18\bin\Debug\Aplicacion18.pdb
+C:\Users\hecto\source\repos\Aplicacion18\Aplicacion18\bin\Debug\Aplicacion18.xml
+C:\Users\hecto\source\repos\Aplicacion18\Aplicacion18\obj\Debug\Aplicacion18.vbprojAssemblyReference.cache
+C:\Users\hecto\source\repos\Aplicacion18\Aplicacion18\obj\Debug\Aplicacion18.Aplicacion18.resources
+C:\Users\hecto\source\repos\Aplicacion18\Aplicacion18\obj\Debug\Aplicacion18.Resources.resources
+C:\Users\hecto\source\repos\Aplicacion18\Aplicacion18\obj\Debug\Aplicacion18.vbproj.GenerateResource.cache
+C:\Users\hecto\source\repos\Aplicacion18\Aplicacion18\obj\Debug\Aplicacion18.vbproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\Aplicacion18\Aplicacion18\obj\Debug\Aplicacion18.exe
+C:\Users\hecto\source\repos\Aplicacion18\Aplicacion18\obj\Debug\Aplicacion18.xml
+C:\Users\hecto\source\repos\Aplicacion18\Aplicacion18\obj\Debug\Aplicacion18.pdb

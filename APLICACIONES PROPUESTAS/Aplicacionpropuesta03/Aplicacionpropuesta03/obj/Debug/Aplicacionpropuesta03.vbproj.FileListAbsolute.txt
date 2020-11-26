@@ -1,0 +1,12 @@
+C:\Users\hecto\source\repos\Aplicacionpropuesta03\Aplicacionpropuesta03\bin\Debug\Aplicacionpropuesta03.exe.config
+C:\Users\hecto\source\repos\Aplicacionpropuesta03\Aplicacionpropuesta03\bin\Debug\Aplicacionpropuesta03.exe
+C:\Users\hecto\source\repos\Aplicacionpropuesta03\Aplicacionpropuesta03\bin\Debug\Aplicacionpropuesta03.pdb
+C:\Users\hecto\source\repos\Aplicacionpropuesta03\Aplicacionpropuesta03\bin\Debug\Aplicacionpropuesta03.xml
+C:\Users\hecto\source\repos\Aplicacionpropuesta03\Aplicacionpropuesta03\obj\Debug\Aplicacionpropuesta03.vbprojAssemblyReference.cache
+C:\Users\hecto\source\repos\Aplicacionpropuesta03\Aplicacionpropuesta03\obj\Debug\Aplicacionpropuesta03.Aplicacionpro03.resources
+C:\Users\hecto\source\repos\Aplicacionpropuesta03\Aplicacionpropuesta03\obj\Debug\Aplicacionpropuesta03.Resources.resources
+C:\Users\hecto\source\repos\Aplicacionpropuesta03\Aplicacionpropuesta03\obj\Debug\Aplicacionpropuesta03.vbproj.GenerateResource.cache
+C:\Users\hecto\source\repos\Aplicacionpropuesta03\Aplicacionpropuesta03\obj\Debug\Aplicacionpropuesta03.vbproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\Aplicacionpropuesta03\Aplicacionpropuesta03\obj\Debug\Aplicacionpropuesta03.exe
+C:\Users\hecto\source\repos\Aplicacionpropuesta03\Aplicacionpropuesta03\obj\Debug\Aplicacionpropuesta03.xml
+C:\Users\hecto\source\repos\Aplicacionpropuesta03\Aplicacionpropuesta03\obj\Debug\Aplicacionpropuesta03.pdb

@@ -1,0 +1,12 @@
+C:\Users\hecto\source\repos\Aplicacion12\Aplicacion12\bin\Debug\Aplicacion12.exe.config
+C:\Users\hecto\source\repos\Aplicacion12\Aplicacion12\bin\Debug\Aplicacion12.exe
+C:\Users\hecto\source\repos\Aplicacion12\Aplicacion12\bin\Debug\Aplicacion12.pdb
+C:\Users\hecto\source\repos\Aplicacion12\Aplicacion12\bin\Debug\Aplicacion12.xml
+C:\Users\hecto\source\repos\Aplicacion12\Aplicacion12\obj\Debug\Aplicacion12.vbprojAssemblyReference.cache
+C:\Users\hecto\source\repos\Aplicacion12\Aplicacion12\obj\Debug\Aplicacion12.Aplicacion12.resources
+C:\Users\hecto\source\repos\Aplicacion12\Aplicacion12\obj\Debug\Aplicacion12.Resources.resources
+C:\Users\hecto\source\repos\Aplicacion12\Aplicacion12\obj\Debug\Aplicacion12.vbproj.GenerateResource.cache
+C:\Users\hecto\source\repos\Aplicacion12\Aplicacion12\obj\Debug\Aplicacion12.vbproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\Aplicacion12\Aplicacion12\obj\Debug\Aplicacion12.exe
+C:\Users\hecto\source\repos\Aplicacion12\Aplicacion12\obj\Debug\Aplicacion12.xml
+C:\Users\hecto\source\repos\Aplicacion12\Aplicacion12\obj\Debug\Aplicacion12.pdb

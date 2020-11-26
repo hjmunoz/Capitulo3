@@ -1,0 +1,12 @@
+C:\Users\hecto\source\repos\Aplicacion08\Aplicacion08\bin\Debug\Aplicacion08.exe.config
+C:\Users\hecto\source\repos\Aplicacion08\Aplicacion08\bin\Debug\Aplicacion08.exe
+C:\Users\hecto\source\repos\Aplicacion08\Aplicacion08\bin\Debug\Aplicacion08.pdb
+C:\Users\hecto\source\repos\Aplicacion08\Aplicacion08\bin\Debug\Aplicacion08.xml
+C:\Users\hecto\source\repos\Aplicacion08\Aplicacion08\obj\Debug\Aplicacion08.vbprojAssemblyReference.cache
+C:\Users\hecto\source\repos\Aplicacion08\Aplicacion08\obj\Debug\Aplicacion08.Aplicacion08.resources
+C:\Users\hecto\source\repos\Aplicacion08\Aplicacion08\obj\Debug\Aplicacion08.Resources.resources
+C:\Users\hecto\source\repos\Aplicacion08\Aplicacion08\obj\Debug\Aplicacion08.vbproj.GenerateResource.cache
+C:\Users\hecto\source\repos\Aplicacion08\Aplicacion08\obj\Debug\Aplicacion08.vbproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\Aplicacion08\Aplicacion08\obj\Debug\Aplicacion08.exe
+C:\Users\hecto\source\repos\Aplicacion08\Aplicacion08\obj\Debug\Aplicacion08.xml
+C:\Users\hecto\source\repos\Aplicacion08\Aplicacion08\obj\Debug\Aplicacion08.pdb

@@ -1,0 +1,12 @@
+C:\Users\hecto\source\repos\Aplicacion14\Aplicacion14\bin\Debug\Aplicacion14.exe.config
+C:\Users\hecto\source\repos\Aplicacion14\Aplicacion14\bin\Debug\Aplicacion14.exe
+C:\Users\hecto\source\repos\Aplicacion14\Aplicacion14\bin\Debug\Aplicacion14.pdb
+C:\Users\hecto\source\repos\Aplicacion14\Aplicacion14\bin\Debug\Aplicacion14.xml
+C:\Users\hecto\source\repos\Aplicacion14\Aplicacion14\obj\Debug\Aplicacion14.vbprojAssemblyReference.cache
+C:\Users\hecto\source\repos\Aplicacion14\Aplicacion14\obj\Debug\Aplicacion14.funciones.resources
+C:\Users\hecto\source\repos\Aplicacion14\Aplicacion14\obj\Debug\Aplicacion14.Resources.resources
+C:\Users\hecto\source\repos\Aplicacion14\Aplicacion14\obj\Debug\Aplicacion14.vbproj.GenerateResource.cache
+C:\Users\hecto\source\repos\Aplicacion14\Aplicacion14\obj\Debug\Aplicacion14.vbproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\Aplicacion14\Aplicacion14\obj\Debug\Aplicacion14.exe
+C:\Users\hecto\source\repos\Aplicacion14\Aplicacion14\obj\Debug\Aplicacion14.xml
+C:\Users\hecto\source\repos\Aplicacion14\Aplicacion14\obj\Debug\Aplicacion14.pdb
